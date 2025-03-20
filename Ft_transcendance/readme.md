@@ -82,12 +82,6 @@ Le projet repose sur une **architecture modulaire** et suit des **standards de s
 
 ## 🛠 **Installation et Exécution**  
 
-### 1️⃣ **Cloner le projet**  
-```bash
-git clone https://github.com/votre-repo/ft_transcendence.git
-cd ft_transcendence
-```
-
 ### 2️⃣ **Lancer les conteneurs Docker**  
 ```bash
 make up

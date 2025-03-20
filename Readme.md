@@ -29,7 +29,7 @@ Chaque projet suit les **normes 42**, est **optimisé pour éviter les fuites m�
 
 ### 📌 **Cloner le dépôt**  
 ```bash
-git clone https://github.com/votre-repo/42-projects.git
+git clone https://github.com/LeGodurix19/19Projects.git/42-projects.git
 cd 42-projects
 ```
 
