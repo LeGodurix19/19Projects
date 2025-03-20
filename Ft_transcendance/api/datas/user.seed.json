@@ -1,0 +1,56 @@
+[
+  {
+    "ID_19": "hgoorick",
+    "Pseudo": "LeGodurix",
+    "Avatar": "files/Goudurix.webp",
+    "Elo": 200,
+    "Actual_skin": 0,
+    "Global_skin": [1, 2, 3, 4],
+    "Wins": 20,
+    "Loses": 10,
+    "Last_connection": "2020-01-01 00:00:00",
+    "Friends": []
+  },
+  {
+    "ID_19": "lbuccher",
+    "Pseudo": "LaLisa",
+    "Avatar": "files/LaLisa.gif",
+    "Elo": 100,
+    "Actual_skin": 27895,
+    "Global_skin": [456, 27895, 312365],
+    "Wins": 10,
+    "Loses": 5,
+    "Last_connection": "2020-01-01 00:00:00",
+    "Friends": [
+      1
+    ]
+  },
+  {
+    "ID_19": "acaillea",
+    "Pseudo": "AlanCazam",
+    "Avatar": "files/AlanKazam.gif",
+    "Elo": 150,
+    "Actual_skin": 27895,
+    "Global_skin": [1, 3, 4],
+    "Wins": 15,
+    "Loses": 8,
+    "Last_connection": "2020-01-01 00:00:00",
+    "Friends": [
+      2
+    ]
+  },
+  {
+    "ID_19": "hcremers",
+    "Pseudo": "Philippeu",
+    "Avatar": "files/philippe.gif",
+    "Elo": 50,
+    "Actual_skin": 1,
+    "Global_skin": [3, 5],
+    "Wins": 5,
+    "Loses": 3,
+    "Last_connection": "2020-01-01 00:00:00",
+    "Friends": [
+      3
+    ]
+  }
+]

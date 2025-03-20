@@ -1,0 +1,55 @@
+version: '3.7'
+services:
+    postgres:
+        image: postgres:latest
+        restart: always
+        logging:
+          options:
+            max-size: 10m
+            max-file: "3"
+        ports:
+          - '5432:5432'
+        networks:
+          - private
+        env_file: .env
+        volumes:
+          - ./data:/var/lib/postgresql/data
+    adminer:
+      image: adminer
+      restart: always
+      ports:
+        - 8081:8080
+      networks:
+        - private
+      depends_on:
+        - postgres
+    api:
+      build: api/
+      restart: always
+      ports:
+        - '3001:3001'
+      networks:
+        - private
+      env_file: .env
+      depends_on:
+        - postgres
+    react:
+      build: front/
+      restart: always
+      ports:
+        - '3000:3000'
+      networks:
+        - private
+      env_file: .env
+      depends_on:
+        - api
+    server:
+      build: server/
+      restart: always
+      ports:
+        - '3002:3002'
+      networks:
+        - private
+      env_file: .env
+networks:
+  private:

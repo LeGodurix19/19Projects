@@ -1,0 +1,37 @@
+/* XPM */
+static char *_636897002700[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 7 1 ",
+"  c gray15",
+". c #AD5207",
+"X c #DB6608",
+"o c #FF7D14",
+"O c #FF933D",
+"+ c #FFBC85",
+"@ c None",
+/* pixels */
+"@@@@@@@@@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@  @@@@@@@@@@@",
+"@@@@@@@@@@ oo @@@@@@@@@@",
+"@@@@@@@@@ +  + @@@@@@@@@",
+"@@@@@@@@@ .++. @@@@@@@@@",
+"@@@@@@@@ .XooX. @@@@@@@@",
+"@@@@@@@@ .XooX. @@@@@@@@",
+"@@@@@@@ ..XooX.. @@@@@@@",
+"@@@@    .XXooXX.    @@@@",
+"@@@ XXX..XooooX..XXX @@@",
+"@@ XXXX.XXooooXX.XXXX @@",
+"@@ XXX..XXooooXX..XXX @@",
+"@@ XXX..XXooooXX..XXX @@",
+"@@ XX..XXooooooXX..XX @@",
+"@@ XX..XXooooooXX..XX @@",
+"@@ XX..XXooooooXX..XX @@",
+"@@ XX..XXooooooXX..XX @@",
+"@@ XXX...oooooo...XXX @@",
+"@@ XXXX..........XXXX @@",
+"@@ XXXXXX......XXXXXX @@",
+"@@ OXXXXXXXXXXXXXXXXO @@",
+"@@@ OOOOOOOOOOOOOOOO@@@@",
+"@@@@                @@@@",
+"@@@@@@@@@@@@@@@@@@@@@@@@"
+};

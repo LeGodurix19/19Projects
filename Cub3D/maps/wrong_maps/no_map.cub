@@ -1,0 +1,11 @@
+SO ./walls/corner_down_left.XPM
+
+NO ./walls/corner_down_left.XPM
+   
+WE ./walls/corner_down_left.XPM
+       
+EA ./walls/corner_down_left.XPM
+   
+F 1,2,255
+
+C 1,2,2
